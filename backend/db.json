@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": 3,
+      "name": "PS cati XD SSS2",
+      "price": 300
+    },
+    {
+      "id": 3,
+      "name": "Iphone 11 pro",
+      "price": 800
+    },
+    {
+      "name": "WOOOOOOOOW im too smarter!",
+      "price": "250000",
+      "id": 5
+    },
+    {
+      "name": "Eduardo Baia",
+      "price": "1500.0",
+      "id": 7
+    },
+    {
+      "name": "MACBOOK NOVO",
+      "price": "1500.0",
+      "id": 10
+    },
+    {
+      "name": "Jesus ",
+      "price": "000",
+      "id": 13
+    },
+    {
+      "name": "qqdasdas",
+      "price": "88",
+      "id": 16
+    }
+  ]
+}
